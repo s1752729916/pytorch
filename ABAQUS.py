@@ -18,7 +18,7 @@ def ForeProcess():#数据预处理
     #print(valid_np[0].shape)
     print(valid_np[0])
     return valid_np
-
+爱爱爱
 class Norm():
     def __init__(self,X_Raw):
         self.X_Raw  = X_Raw
